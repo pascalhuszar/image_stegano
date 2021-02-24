@@ -9,3 +9,6 @@ et al. Their model is capable of hiding up to 4.4 bits per pixel of
 arbitrary data inside images while it evades detection by steganalysis
 tools. On the basis of SteganoGAN, the motives and the concepts of
 steganographic systems are expressed in this paper.
+
+# Next
+..testing [SteganoGan](https://github.com/DAI-Lab/SteganoGAN)
